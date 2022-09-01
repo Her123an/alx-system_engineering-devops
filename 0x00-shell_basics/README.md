@@ -1,3 +1,1 @@
-a script that prints the absolute path name of the current wo
-
-rking directory
+script that prints the absolute path name of the current working directory
