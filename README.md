@@ -1,1 +1,1 @@
-Display the contents list of your current directory.
+a script that prints “Hello, World”, followed by a new line to the standard output.
